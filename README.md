@@ -8,4 +8,6 @@ React Portfolio with Sanity and Tailwind
 
 ### `sanity init`
 
+### `cd portfoliosanitytailwind`
+
 ### `sanity start`
